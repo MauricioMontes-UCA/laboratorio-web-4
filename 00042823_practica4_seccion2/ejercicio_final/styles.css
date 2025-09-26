@@ -1,0 +1,23 @@
+/* La IA generó un CSS bien bonito, pero la verdad me siento sucio usándola */
+
+* {
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.spinnerContainer {
+    margin: 2rem 0 2rem 0;
+    width: fit-content;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
